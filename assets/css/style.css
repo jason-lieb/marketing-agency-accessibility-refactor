@@ -24,7 +24,8 @@ h1 {
     font-size: 48px;
 }
 
-.seo {
+em {
+    font-style: normal;
     color: #a6a8a3;
 }
 
